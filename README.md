@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Lucas Estevam Rodrigues
 
-<!--
-**Lucas1708-coder/Lucas1708-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Programação  
+💻 Focado em Desenvolvimento Web e Lógica de Programação  
+🚀 Buscando oportunidade como **Menor Aprendiz em TI**  
+🌍 Disponível para trabalho remoto ou híbrido (presencial apenas em BH)  
+🌎 Inglês intermediário
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 O que estou estudando atualmente?
+
+- Lógica de Programação   
+- Python e Java  
+- Git e GitHub  
+- Pensamento Computacional
+
+---
+
+## 📚 Repositórios em destaque
+
+- [Exercícios de Lógica de Programação](https://github.com/Lucas1708-coder/logica_de_programa--o)
+
+---
+
+## 🎯 Objetivo profissional
+
+Construir minha carreira na área de tecnologia, começando como **Menor Aprendiz em TI**, desenvolvendo habilidades práticas e evoluindo como programador.
+
+---
+
+## 📬 Onde me encontrar?
+
+🔗 LinkedIn: https://www.linkedin.com/in/lucas-estevam-rodrigues-programador  
+📁 GitHub: https://github.com/Lucas1708-coder
